@@ -1,0 +1,16 @@
+{
+    "canisters": {
+        "zeerust": {
+            "candid": "src/zeerust/zeerust.did",
+            "package": "zeerust",
+            "type": "rust"
+        }
+    },
+    "defaults": {
+      "build": {
+        "args": "",
+        "packtool": ""
+      }
+    },
+    "version": 1
+  }
